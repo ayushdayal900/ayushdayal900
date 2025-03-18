@@ -9,9 +9,8 @@
 
 ### 📍 **Contact Info**
 - 📍 Pune, India  
-- 📱 **Mob:** +91 7219718451  
 - 📧 **Email:** [ayushdayal8@gmail.com](mailto:ayushdayal8@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ayush-dayal-0bb221242/) • [GitHub](https://github.com/ayushdayal900) • [LeetCode](https://leetcode.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ayush-dayal-0bb221242/) • [GitHub](https://github.com/ayushdayal900)  
 
 ---
 
@@ -25,64 +24,28 @@
 
 ### 💼 **Experience**
 - 🛠️ **Brainwave Matrix Solutions – AI/ML Intern**  
-  - Real-world AI/ML problem-solving.  
   - Worked on **two projects** with efficient accuracy.  
-
 - 🌐 **EduSkills Foundation – Web Developer Intern**  
-  - Enhanced skills in **JavaScript, Bootstrap, Django, jQuery, SQL, Git, and version control**.  
-
+  - Enhanced skills in **JavaScript, Django, SQL, and Git**.  
 - ☁️ **Amazon Web Services – Cloud Intern**  
   - Hands-on experience with **EC2, S3, and RDS**.  
-  - Built and deployed cloud solutions.  
 
 ---
 
 ### 🚀 **Projects**
 - 🔧 **Mac Changer – C Language**  
   - Command-line utility to modify **MAC addresses**.  
-  - Automated the process using logical C programming.  
-
 - 💻 **Linux Shell – Java GUI**  
-  - Developed a **Linux Shell** using **Java Swing** and AWT.  
-  - Skills: **Java, Linux, File Handling**.  
-
+  - Developed a **Linux Shell** using **Java Swing**.  
 - 🌌 **Spin Universe – Image Processing**  
-  - Visualized **1D, 2D, and 3D object rotation**.  
-  - Skills: **Python, OpenCV, NumPy**.  
+  - Visualized **1D, 2D, and 3D object rotation** using **Python and OpenCV**.  
 
 ---
 
 ### 🛠️ **Skills**
 - 💻 **Languages:** Python, Java, C, C++, JavaScript  
-- 🤖 **Machine Learning:** Statistics, Regression, Clustering  
 - ☁️ **Cloud:** AWS, MS Azure  
 - 🗃️ **Database:** MySQL, SQLite, PostgreSQL  
-
----
-
-### 🏅 **Certifications**
-- 🎓 **IITM:** Foundation Level in Programming and Data Science  
-- ☁️ **AZ-900:** Microsoft Certified – Azure Data Fundamentals  
-- 🔐 **SC-900:** Microsoft Certified – Security, Compliance, and Identity Fundamentals  
-- 🔥 **OCI-GEN AI:** Oracle Cloud Infrastructure Generative AI Professional  
-
----
-
-### 🌐 **Connect with Me**
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-dayal-0bb221242/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ayushdayal8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/ayushdayal900" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://leetcode.com" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
-</p>
 
 ---
 
