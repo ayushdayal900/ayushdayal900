@@ -1,6 +1,9 @@
 # 💫 About Me:
 I am currently working on Web-dev and Linux.<br>I am looking to collabrate in Java Open Source Projects.<br>I am currently learning Vue.js and Node.js<br>Ask me about different techs and skills.<br>Fun fact I like to document things on paper.<br>
 
+<p align="center">
+  <img align="center" alt="Coding" width="600" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayush-dayal-0bb221242/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushdayal900@gmail.com) 
