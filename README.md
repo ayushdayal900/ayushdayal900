@@ -1,352 +1,239 @@
 <div align="center">
 
-# 👨‍💻 Ayush Dayal
+<!-- Animated Header with Gradient -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=60&lines=👨‍💻+Ayush+Dayal;💻+Full-Stack+Developer;🚀+Software+Engineer;🌟+Open+Source+Contributor;⚡+Systems+Architect;🎯+Problem+Solver" alt="Animated Typing Header" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineer;Full-Stack+Developer;Open+Source+Contributor;Systems+Architect;Problem+Solver)](https://git.io/typing-svg)
+<!-- Dynamic Profile Cards -->
+<div align="center">
+  <a href="https://app.daily.dev/ayushdayal"><img src="https://api.daily.dev/devcards/2c2b2b2b2c2b2b2c2b2c2b2c2b2c2b2c.png?r=0" width="256" align="right" alt="Ayush Dayal's Dev Card"/></a>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-dayal-0bb221242/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ayushdayal900@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/ayushdayal900">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<!-- Animated Social Links -->
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushdayal900&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ayushdayal900?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ayushdayal900?label=Stars&style=social" alt="Stars" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/ayush-dayal-0bb221242/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335)](mailto:ayushdayal900@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717)](https://github.com/ayushdayal900)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=000000&color=000000)](https://ayushdayal.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2)](https://twitter.com/ayushdayal900)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Profile Metrics -->
+<div align="center">
 
-## 📋 Professional Summary
+![Profile Views](https://komarev.com/ghpvc/?username=ayushdayal900&label=Profile%20Views&color=0e75b6&style=flat-square&labelColor=1e40af)
+![Followers](https://img.shields.io/github/followers/ayushdayal900?label=Followers&style=flat-square&color=10b981&labelColor=065f46)
+![Stars](https://img.shields.io/github/stars/ayushdayal900?label=Stars&style=flat-square&color=f59e0b&labelColor=92400e)
+
+</div>
+
+</div>
+
+<!-- Animated Gradient Separator -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+## 🎯 Professional Summary
+
+<!-- Interactive Code Block with Glow Effect -->
+<div align="center">
 
 ```typescript
-const ayushDayal = {
-    title: "Software Engineer",
-    specialization: ["Full-Stack Development", "Systems Programming"],
-    currentFocus: {
-        learning: ["Vue.js", "Node.js", "Advanced Linux"],
-        building: "Scalable Web Applications",
-        exploring: "Cloud-Native Architectures"
-    },
-    openToCollaborate: true,
-    availableFor: ["Java Open Source Projects", "Technical Consulting", "Mentorship"]
+interface SoftwareEngineer {
+  name: "Ayush Dayal";
+  title: "Full-Stack Developer & Systems Architect";
+  specialization: ["Web Development", "Cloud Architecture", "DevOps"];
+  currentFocus: {
+    learning: ["Vue.js Ecosystem", "Node.js Advanced Patterns", "Kubernetes"];
+    building: "Scalable Microservices Architecture";
+    exploring: "Cloud-Native Technologies";
+  };
+  skills: {
+    languages: ["JavaScript", "TypeScript", "Java", "Python", "C++"];
+    frontend: ["Vue.js", "React", "TailwindCSS", "Bootstrap"];
+    backend: ["Node.js", "Express", "Django", "Spring Boot"];
+    databases: ["MySQL", "PostgreSQL", "MongoDB", "Redis"];
+    devops: ["Docker", "Kubernetes", "AWS", "Azure", "GitHub Actions"];
+  };
+  availability: {
+    openForCollaboration: true;
+    interestedIn: ["Open Source", "Technical Mentoring", "Architecture Consulting"];
+  };
+}
+
+const ayush: SoftwareEngineer = {
+  // Implementation details available upon request 😉
 };
-```
 
-> Software engineer specializing in full-stack web development and systems programming, with demonstrated expertise in building scalable applications and architecting robust solutions. Currently focused on advancing modern JavaScript frameworks and server-side technologies while maintaining a strong foundation in systems-level programming and cloud infrastructure.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Collaboration-success?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/Focus-Open%20Source-informational?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Type-Full%20Stack-blueviolet?style=for-the-badge" alt="Type"/>
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎯 Technical Expertise
-
-<div align="center">
-
-### Core Competencies
+</div><!-- Status Cards with Hover Effects --><div align="center"><div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin: 20px 0;"><div style="background: linear-gradient(135deg, #10b981, #059669); padding: 12px 24px; border-radius: 12px; color: white; font-weight: bold; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);"> 🟢 Available for Collaboration </div><div style="background: linear-gradient(135deg, #3b82f6, #1d4ed8); padding: 12px 24px; border-radius: 12px; color: white; font-weight: bold; box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);"> 🚀 Open Source Contributor </div><div style="background: linear-gradient(135deg, #8b5cf6, #7c3aed); padding: 12px 24px; border-radius: 12px; color: white; font-weight: bold; box-shadow: 0 4px 15px rgba(139, 92, 246, 0.3);"> 💡 Problem Solver </div></div></div><!-- Animated Gradient Separator --><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div>
+🛠️ Technical Arsenal
+<!-- Skill Categories with Icons --><div align="center">
+🎨 Frontend Development
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=2c5e4f
+https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=20232a
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2b7489
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0f172a
+https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=563d7c
+https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=ff6384
 
 </div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌐 Web Development & Architecture
-- ✅ Full-stack application development with modern JavaScript frameworks
-- ✅ RESTful API design and microservices architecture
-- ✅ Database schema design and query optimization
-- ✅ Cloud-native application deployment and scaling
-
-#### 🖥️ Systems Programming & Administration
-- ✅ Linux system administration and automation
-- ✅ Shell scripting and task automation
-- ✅ Containerization and orchestration strategies
-- ✅ Infrastructure as Code (IaC) implementation
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛠️ Software Engineering Practices
-- ✅ Version control and collaborative development workflows
-- ✅ Test-driven development and continuous integration
-- ✅ Code review and documentation standards
-- ✅ Agile methodologies and sprint planning
-
-#### 🚀 Current Development Focus
-- 🔄 Vue.js ecosystem and component-based architecture
-- 🔄 Node.js proficiency with scalable API development
-- 🔄 Advanced Linux system administration workflows
-- 🔄 Java open source project contributions
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💻 Technology Stack
-
-<div align="center">
-
-### 🔤 Programming Languages
-
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Frontend Technologies
-
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja-B41717.svg?style=for-the-badge&logo=jinja&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend Technologies & Frameworks
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### 🗄️ Database Management Systems
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud Infrastructure & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🎨 Design & Productivity Tools
-
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Creative Suite](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+⚙️ Backend & Databases
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=215732
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ed8b00
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776ab
+https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47a248
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-### 📈 Contribution Metrics
-
-<a href="https://github.com/ayushdayal900">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushdayal900&theme=react&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdayal900&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8"/>
-</a>
-
-### 🔥 Contribution Streak & Activity
-
-<a href="https://github.com/ayushdayal900">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ayushdayal900&theme=react&hide_border=true" alt="Contribution Streak" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdayal900&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="49%"/>
-</a>
-
-### 🏆 Achievement Showcase
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushdayal900&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies"/>
-</p>
-
-### 📌 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ayushdayal900&limit=6&theme=algolia&combine_all_yearly_contributions=true" alt="Top Repositories"/>
-</p>
-
-### 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdayal900&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
+☁️ Cloud & DevOps
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232f3e
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ed
+https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=326ce5
+https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=2088ff
+https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0078d4
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=fcc624
 
 </div>
+🛠️ Tools & Platforms
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
+https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007acc
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=f05032
+https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=f24e1e
+https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=ff6c37
+https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=000000
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🎓 Professional Philosophy
-
-<div align="center">
-
-### 💭 Guiding Principle
-
-> *"Documentation is not a burden—it is an investment in clarity, maintainability, and collaborative success."*
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Code+Quality+%7C+Comprehensive+Documentation+%7C+Collaborative+Development" alt="Philosophy"/>
-
-</div>
-
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" width="48" height="48" alt="Excellence"/>
-<br><strong>Technical Excellence</strong>
-<br><sub>Clean, maintainable code</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" width="48" height="48" alt="Learning"/>
-<br><strong>Continuous Learning</strong>
-<br><sub>Emerging technologies</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="48" height="48" alt="Sharing"/>
-<br><strong>Knowledge Sharing</strong>
-<br><sub>Open source contribution</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="48" height="48" alt="Problem Solving"/>
-<br><strong>Problem Solving</strong>
-<br><sub>Analytical thinking</sub>
-</td>
-</tr>
-</table>
-
-### 🎯 Areas of Strategic Interest
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Software<br/>Engineering))
-    Distributed Systems
-      Microservices
-      Event-Driven Architecture
-      Load Balancing
-    Performance
-      Optimization Techniques
-      Profiling Tools
-      Caching Strategies
-    Cloud Native
-      Containerization
-      Orchestration
-      Serverless
-    DevOps
-      CI/CD Pipelines
-      Infrastructure as Code
-      Monitoring & Logging
-```
+</div></div><!-- Animated Gradient Separator --><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div>
+📊 GitHub Analytics
+<!-- Advanced GitHub Stats with Custom Layout --><div align="center">
+🎯 Contribution Overview
+<table> <tr> <td align="center" style="padding: 0; margin: 0;"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushdayal900&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=6366f1&border_radius=15" /> </td> <td align="center" style="padding: 0; margin: 0;"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdayal900&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_radius=15" /> </td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdayal900&theme=radical&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&border_radius=15" alt="GitHub Streak" /> </td> </tr> </table>
+📈 Activity Metrics
+<div align="center"><!-- Activity Graph -->
+https://github-readme-activity-graph.vercel.app/graph?username=ayushdayal900&bg_color=0d1117&color=6366f1&line=8b5cf6&point=10b981&area=true&hide_border=true&custom_title=My%2520Contribution%2520Activity
 
 </div>
-
-- 🏗️ **Distributed Systems Architecture** - Scalability patterns and fault tolerance
-- ⚡ **Performance Optimization** - Application profiling and bottleneck resolution
-- ☁️ **Cloud-Native Design** - Microservices and containerized deployments
-- 🔄 **DevOps Automation** - CI/CD pipeline engineering and infrastructure automation
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 Let's Connect & Collaborate
-
+🏆 GitHub Achievements
 <div align="center">
+https://github-profile-trophy.vercel.app/?username=ayushdayal900&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=5
 
-### 💼 Open for Opportunities
+</div></div><!-- Animated Gradient Separator --><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div>
+🎨 Projects Showcase
+<!-- Featured Projects with Cards --><div align="center">
+🌟 Featured Projects
+<table> <tr> <td width="50%" valign="top">
+🚀 Full-Stack Applications
+E-Commerce Platform - Vue.js + Node.js + MySQL
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="64" alt="Open Source"/>
-<br><strong>Open Source</strong>
-<br><sub>Contributing to Java projects</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/consulting.png" width="64" alt="Consulting"/>
-<br><strong>Technical Consulting</strong>
-<br><sub>Architecture & strategy</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/communication.png" width="64" alt="Collaboration"/>
-<br><strong>Collaboration</strong>
-<br><sub>Building innovative solutions</sub>
-</td>
-</tr>
-</table>
+Task Management System - React + Express + MongoDB
 
-### 📬 Reach Out
+Real-time Chat Application - Socket.io + Vue.js
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-dayal-0bb221242/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ayushdayal900@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Send_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/ayushdayal900">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+API Gateway Service - Microservices Architecture
+
+🔧 DevOps & Infrastructure
+CI/CD Pipeline Automation - GitHub Actions + Docker
+
+Kubernetes Cluster Setup - Multi-node deployment
+
+Cloud Infrastructure - AWS ECS + RDS + S3
+
+Monitoring Stack - Prometheus + Grafana
+
+</td> <td width="50%" valign="top">
+💻 Open Source Contributions
+Java Utility Libraries - Performance optimization
+
+Vue.js Components - Reusable UI library
+
+Documentation Tools - API documentation generators
+
+Developer Tools - CLI utilities and scripts
+
+🎯 Current Focus
+Microservices Architecture - Scalable system design
+
+Cloud-Native Development - Containerized applications
+
+Performance Optimization - Application profiling
+
+System Design - Distributed systems patterns
+
+</td> </tr> </table></div><!-- Animated Gradient Separator --><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div>
+🌟 Development Philosophy
+<!-- Interactive Philosophy Section --><div align="center">
+💡 Core Principles
+<table> <tr> <td width="25%" align="center"> <img src="https://api.iconify.design/mdi:code-braces.svg?color=6366f1" width="48" height="48" alt="Clean Code"/> <br><strong>Clean Code</strong> <br><sub>Readable & Maintainable</sub> </td> <td width="25%" align="center"> <img src="https://api.iconify.design/mdi:lightbulb-on.svg?color=10b981" width="48" height="48" alt="Innovation"/> <br><strong>Innovation</strong> <br><sub>Creative Solutions</sub> </td> <td width="25%" align="center"> <img src="https://api.iconify.design/mdi:book-open-variant.svg?color=8b5cf6" width="48" height="48" alt="Documentation"/> <br><strong>Documentation</strong> <br><sub>Comprehensive & Clear</sub> </td> <td width="25%" align="center"> <img src="https://api.iconify.design/mdi:account-group.svg?color=f59e0b" width="48" height="48" alt="Collaboration"/> <br><strong>Collaboration</strong> <br><sub>Team Success</sub> </td> </tr> </table>
+🎯 Technical Vision
+
+graph TD
+    A[Problem Analysis] --> B[Architecture Design]
+    B --> C[Development]
+    C --> D[Testing & QA]
+    D --> E[Deployment]
+    E --> F[Monitoring]
+    F --> G[Optimization]
+    G --> A
+    
+    style A fill:#6366f1,color:#fff
+    style B fill:#8b5cf6,color:#fff
+    style C fill:#10b981,color:#fff
+    style D fill:#f59e0b,color:#fff
+    style E fill:#ef4444,color:#fff
+    style F fill:#3b82f6,color:#fff
+    style G fill:#ec4899,color:#fff
+
+
+
+</div><!-- Animated Gradient Separator --><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div>
+🤝 Let's Connect & Collaborate
+<!-- Interactive Contact Section --><div align="center">
+💼 Open for Opportunities
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;"><div style="text-align: center; padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); width: 200px; color: white;"> <strong>🚀 Open Source</strong> <br> <small>Java & JavaScript Projects</small> </div><div style="text-align: center; padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); width: 200px; color: white;"> <strong>💡 Technical Consulting</strong> <br> <small>Architecture & Strategy</small> </div><div style="text-align: center; padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); width: 200px; color: white;"> <strong>👥 Mentorship</strong> <br> <small>Guidance & Code Reviews</small> </div></div>
+📬 Get in Touch
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Schedule_Meeting-6B46C1?style=for-the-badge&logo=googlemeet&logoColor=white
+
+</div><!-- Quote Section --><div style="margin: 40px 0; padding: 20px; background: linear-gradient(135deg, #1e293b, #0f172a); border-radius: 15px; border-left: 4px solid #6366f1;"> <blockquote style="font-style: italic; color: #cbd5e1; margin: 0;"> "Great software is not just about writing code—it's about solving real problems with elegant solutions, comprehensive documentation, and collaborative spirit." </blockquote> </div></div><!-- Animated Gradient Separator --><div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> </div>
+🌟 Support & Recognition
+<div align="center">
+⭐ Show Your Support
+If you appreciate my work, consider:
+
+https://img.shields.io/badge/%E2%AD%90_Star_My_Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black
+https://img.shields.io/badge/%F0%9F%91%A4_Follow_Me-10B981?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/%F0%9F%94%97_Share_Profile-3B82F6?style=for-the-badge&logo=link&logoColor=white
+
+📊 Weekly Development Breakdown
+
+pie title Weekly Development Time
+    "Frontend Development" : 35
+    "Backend Development" : 30
+    "DevOps & Infrastructure" : 20
+    "Learning & Research" : 10
+    "Open Source" : 5
+
+🎭 Random Developer Quote
+<div style="background: linear-gradient(135deg, #6366f1, #8b5cf6); padding: 20px; border-radius: 15px; margin: 20px 0; color: white;"> <i>"The most effective debugging tool is still careful thought, coupled with judiciously placed print statements."</i> <br> <strong>- Brian W. Kernighan</strong> </div></div>
+<div align="center"><!-- Snake Animation --><img src="https://raw.githubusercontent.com/ayushdayal900/ayushdayal900/output/snake.svg" alt="Snake animation" width="100%" /><!-- Footer Wave --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+💫 Keep Shining & Happy Coding!
+© 2025 Ayush Dayal • Software Engineer • Open Source Advocate • Continuous Learner
+
+<div style="margin-top: 20px;">
+https://api.visitorbadge.io/api/visitors?path=https%253A%252F%252Fgithub.com%252Fayushdayal900&countColor=%2523697689&style=flat-square
+https://img.shields.io/github/last-commit/ayushdayal900/ayushdayal900?label=Profile%2520Updated&style=flat-square&color=6B7280
 
 </div>
+Built with ❤️, ☕, and 🚀
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 Support My Work
-
-<div align="center">
-
-If you find my work valuable, consider:
-
-[![Star Repository](https://img.shields.io/badge/⭐_Star_Repositories-yellow?style=for-the-badge)](https://github.com/ayushdayal900)
-[![Follow](https://img.shields.io/badge/👤_Follow_on_GitHub-black?style=for-the-badge)](https://github.com/ayushdayal900)
-[![Share](https://img.shields.io/badge/🔗_Share_Profile-blue?style=for-the-badge)](https://github.com/ayushdayal900)
-
-### ✍️ Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 Profile Statistics
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushdayal900&theme=github_dark)
-
-<img src="https://raw.githubusercontent.com/ayushdayal900/ayushdayal900/output/snake.svg" alt="Snake animation" />
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-**© 2025 Ayush Dayal** • *Open Source Contributor • Systems Architect • Lifelong Learner*
-
-**Made with ❤️ and ☕**
-
-</div>
+</div> ```
