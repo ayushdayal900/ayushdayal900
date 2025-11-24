@@ -21,7 +21,7 @@
 
 <!-- Animated Social Badges with Professional Styling -->
 <p align="center">
-  <a href="www.linkedin.com/in/ayushdayal8" target="_blank">
+  <a href="https://www.linkedin.com/in/ayushdayal8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <a href="mailto:ayushdayal900@gmail.com">
