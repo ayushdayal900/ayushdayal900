@@ -28,13 +28,10 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
   </a>
   <a href="https://github.com/ayushdayal900" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2937" alt="GitHub"/>
   </a>
   <a href="https://personal-portfolio-three-sigma-94.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
-  </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
   </a>
 </p>
 
@@ -48,8 +45,7 @@
 
 <br/>
 
-<!-- Premium Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="border: none; border-top: 2px solid white; width: 50%; margin: 20px auto;">
 
 <br/>
 
@@ -146,7 +142,7 @@ console.log(`${ayushDayal.role} ready to collaborate! 🚀`);
 <br/>
 
 <!-- Premium Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="border: none; border-top: 2px solid white; width: 50%; margin: 20px auto;">
 
 <br/>
 
@@ -313,7 +309,7 @@ console.log(`${ayushDayal.role} ready to collaborate! 🚀`);
 <br/>
 
 <!-- Premium Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="border: none; border-top: 2px solid white; width: 50%; margin: 20px auto;">
 
 <br/>
 
@@ -374,7 +370,7 @@ console.log(`${ayushDayal.role} ready to collaborate! 🚀`);
 <br/>
 
 <!-- Premium Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="border: none; border-top: 2px solid white; width: 50%; margin: 20px auto;">
 
 <br/>
 
@@ -512,7 +508,7 @@ mindmap
 <br/>
 
 <!-- Premium Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="border: none; border-top: 2px solid white; width: 50%; margin: 20px auto;">
 
 <br/>
 
@@ -615,7 +611,7 @@ mindmap
 <br/>
 
 <!-- Premium Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="border: none; border-top: 2px solid white; width: 50%; margin: 20px auto;">
 
 <br/>
 
@@ -680,7 +676,7 @@ mindmap
 <br/>
 
 <!-- Premium Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<hr style="border: none; border-top: 2px solid white; width: 50%; margin: 20px auto;">
 
 <br/>
 
