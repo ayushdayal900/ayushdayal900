@@ -30,7 +30,7 @@
   <a href="https://github.com/ayushdayal900" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
-  <a href="https://github.com/ayushdayal900?tab=repositories" target="_blank">
+  <a href="https://personal-portfolio-three-sigma-94.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
   </a>
   <a href="https://twitter.com" target="_blank">
