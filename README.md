@@ -22,7 +22,7 @@
 <!-- Animated Social Badges with Professional Styling -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-dayal-0bb221242/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+    <img src="www.linkedin.com/in/ayushdayal8" alt="LinkedIn"/>
   </a>
   <a href="mailto:ayushdayal900@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
