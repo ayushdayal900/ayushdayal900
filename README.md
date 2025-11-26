@@ -447,7 +447,7 @@ graph LR
 
 graph LR
     %% --- CENTER NODE ---
-    Root((ML & IPO<br/>Expertise))
+    Root((ML<br/>Expertise))
 
     %% ==========================================
     %% LEFT SIDE CLUSTERS (Flow: Sub -> Main)
