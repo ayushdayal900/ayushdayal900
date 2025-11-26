@@ -56,10 +56,10 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 
-<img width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Thinking Research"/>
+<img align="right" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Thinking Research"/>
 
 
-<img width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Data Research"/>
+<img align="right" width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Data Research"/>
 
 </p>
 
