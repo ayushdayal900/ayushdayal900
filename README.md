@@ -52,6 +52,9 @@
 ## 🌟 About Me
 
 <img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 
 ```javascript
 const ayushDayal = {
