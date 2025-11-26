@@ -51,11 +51,18 @@
 
 ## 🌟 About Me
 
+
+
+
+
 <img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 
+<br/>
+
 <img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
+<br/>
 
 <img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
@@ -352,39 +359,213 @@ console.log(`${ayushDayal.role} ready to collaborate! 🚀`);
 
 ### 🎯 Strategic Focus Areas
 
+
+## 💻 Software Engineering Expertise 
+
 ```mermaid
-mindmap
-  root((Software<br/>Engineering))
-    Distributed Systems
-      Microservices Architecture
-      Event-Driven Design
-      Service Mesh & Load Balancing
-      Fault Tolerance Patterns
-      API Gateway Design
-    Performance Engineering
-      Code Optimization Techniques
-      Profiling & Bottleneck Analysis
-      Caching Strategies
-      Database Query Optimization
-      Memory Management
-    Cloud Native Development
-      Containerization Best Practices
-      Kubernetes Orchestration
-      Serverless Architecture
-      Multi-Cloud Strategies
-      Infrastructure as Code
-    DevOps Culture
-      CI/CD Pipeline Automation
-      Infrastructure as Code
-      Monitoring & Observability
-      GitOps Workflows
-      Security Best Practices
-    Machine Learning
-      Model Training & Deployment
-      Feature Engineering
-      Data Preprocessing
-      ML Pipeline Automation
-      Model Optimization
+graph LR
+    %% --- CENTER NODE ---
+    Root((Software<br/>Engineering))
+
+    %% --- LEFT SIDE (Distributed Systems - BLUE) ---
+    %% Logic: Sub-nodes --> Main Node (Forces them Left)
+    DS1(Microservices) --> DS
+    DS2(Event-Driven) --> DS
+    DS3(Fault Tolerance) --> DS
+    DS[Distributed<br/>Systems]
+
+    %% --- LEFT SIDE (Machine Learning - PINK) ---
+    %% Logic: Sub-nodes --> Main Node (Forces them Left)
+    ML1(Model Ops) --> ML
+    ML2(Feature Eng) --> ML
+    ML3(Deployment) --> ML
+    ML[Machine<br/>Learning]
+
+    %% --- RIGHT SIDE (Cloud - GREEN) ---
+    %% Logic: Main Node --> Sub-nodes (Forces them Right)
+    Cloud[Cloud Native<br/>Computing] --> C1(Kubernetes)
+    Cloud --> C2(Serverless)
+    Cloud --> C3(Multi-Cloud)
+
+    %% --- RIGHT SIDE (DevOps - ORANGE) ---
+    %% Logic: Main Node --> Sub-nodes (Forces them Right)
+    Dev[DevOps<br/>Culture] --> D1(CI/CD)
+    Dev --> D2(Observability)
+    Dev --> D3(Security)
+
+    %% --- CONNECTING TO CENTER ---
+    DS === Root
+    ML === Root
+    Root === Cloud
+    Root === Dev
+
+    %% --- STYLING DEFINITIONS ---
+    classDef rootStyle fill:#0d1117,stroke:#38bdf8,stroke-width:4px,color:#fff,font-size:18px,font-weight:bold;
+    
+    %% Main Parent Node Styles
+    classDef blueNode fill:#161b22,stroke:#3b82f6,stroke-width:3px,color:#fff,font-weight:bold;
+    classDef pinkNode fill:#161b22,stroke:#ec4899,stroke-width:3px,color:#fff,font-weight:bold;
+    classDef greenNode fill:#161b22,stroke:#10b981,stroke-width:3px,color:#fff,font-weight:bold;
+    classDef orangeNode fill:#161b22,stroke:#f59e0b,stroke-width:3px,color:#fff,font-weight:bold;
+
+    %% Sub-Node Styles (Matching Parent Colors with Dashed Borders)
+    classDef subBlue fill:#0d1117,stroke:#3b82f6,stroke-width:1px,color:#fff,stroke-dasharray: 5 5;
+    classDef subPink fill:#0d1117,stroke:#ec4899,stroke-width:1px,color:#fff,stroke-dasharray: 5 5;
+    classDef subGreen fill:#0d1117,stroke:#10b981,stroke-width:1px,color:#fff,stroke-dasharray: 5 5;
+    classDef subOrange fill:#0d1117,stroke:#f59e0b,stroke-width:1px,color:#fff,stroke-dasharray: 5 5;
+
+    %% --- APPLY STYLES ---
+    class Root rootStyle;
+    
+    %% Apply Colors to Main Nodes
+    class DS blueNode;
+    class ML pinkNode;
+    class Cloud greenNode;
+    class Dev orangeNode;
+
+    %% Apply Colors to Sub Nodes
+    class DS1,DS2,DS3 subBlue;
+    class ML1,ML2,ML3 subPink;
+    class C1,C2,C3 subGreen;
+    class D1,D2,D3 subOrange;
+
+    %% --- LINK STYLING ---
+    %% Default grey for sub-nodes connections
+    linkStyle 0,1,2,3,4,5,6,7,8,9,10,11 stroke:#30363d,stroke-width:1px,fill:none;
+    
+    %% Thick colorful links for main connections
+    linkStyle 12 stroke:#3b82f6,stroke-width:3px;
+    linkStyle 13 stroke:#ec4899,stroke-width:3px;
+    linkStyle 14 stroke:#10b981,stroke-width:3px;
+    linkStyle 15 stroke:#f59e0b,stroke-width:3px;
+```
+
+
+## 🤖 Software Engineering Expertise 
+
+```mermaid
+
+graph LR
+    %% --- CENTER NODE ---
+    Root((ML & IPO<br/>Expertise))
+
+    %% ==========================================
+    %% LEFT SIDE CLUSTERS (Flow: Sub -> Main)
+    %% ==========================================
+
+    %% 1. CLASSIFICATION (Blue)
+    CL1(Supervised Learning) --> Class
+    CL2(Binary & Multiclass) --> Class
+    CL3(Imbalance Handling) --> Class
+    Class[Classification]
+
+    %% 2. ENSEMBLE METHODS (Purple)
+    EN1(Boosting: XGBoost/Ada) --> Ens
+    EN2(Bagging: Random Forest) --> Ens
+    EN3(Stacking) --> Ens
+    Ens[Ensemble<br/>Methods]
+
+    %% 3. MODEL EVALUATION (Pink)
+    EV1(Metrics: F1/Recall) --> Eval
+    EV2(Confusion Matrix) --> Eval
+    EV3(Cross-Validation) --> Eval
+    Eval[Model<br/>Evaluation]
+
+    %% ==========================================
+    %% RIGHT SIDE CLUSTERS (Flow: Main -> Sub)
+    %% ==========================================
+
+    %% 4. FEATURE ENGINEERING (Green)
+    Feat[Feature<br/>Engineering] --> FE1(Financial Ratios)
+    Feat --> FE2(Domain Metrics: GMP)
+    Feat --> FE3(Feature Selection)
+
+    %% 5. DOMAIN EXPERTISE (Orange)
+    Dom[Domain<br/>Expertise] --> DO1(IPO Analysis)
+    Dom --> DO2(Market Fundamentals)
+    Dom --> DO3(Financial Data Proc)
+
+    %% 6. DEPLOYMENT (Cyan)
+    Dep[Deployment<br/>& Implementation] --> DP1(Model Serialization)
+    Dep --> DP2(Streamlit Apps)
+    Dep --> DP3(ML Pipelines)
+
+    %% ==========================================
+    %% CENTER CONNECTIONS
+    %% ==========================================
+    Class === Root
+    Ens === Root
+    Eval === Root
+    Root === Feat
+    Root === Dom
+    Root === Dep
+
+    %% ==========================================
+    %% STYLING DEFINITIONS
+    %% ==========================================
+    
+    %% Root Style
+    classDef rootStyle fill:#0d1117,stroke:#38bdf8,stroke-width:4px,color:#fff,font-size:18px,font-weight:bold;
+
+    %% Main Node Styles
+    classDef blueNode fill:#161b22,stroke:#3b82f6,stroke-width:3px,color:#fff,font-weight:bold;
+    classDef purpleNode fill:#161b22,stroke:#a855f7,stroke-width:3px,color:#fff,font-weight:bold;
+    classDef pinkNode fill:#161b22,stroke:#ec4899,stroke-width:3px,color:#fff,font-weight:bold;
+    classDef greenNode fill:#161b22,stroke:#10b981,stroke-width:3px,color:#fff,font-weight:bold;
+    classDef orangeNode fill:#161b22,stroke:#f59e0b,stroke-width:3px,color:#fff,font-weight:bold;
+    classDef cyanNode fill:#161b22,stroke:#06b6d4,stroke-width:3px,color:#fff,font-weight:bold;
+
+    %% Sub-Node Styles (Dashed Borders)
+    classDef subBlue fill:#0d1117,stroke:#3b82f6,stroke-width:1px,color:#fff,stroke-dasharray: 5 5;
+    classDef subPurple fill:#0d1117,stroke:#a855f7,stroke-width:1px,color:#fff,stroke-dasharray: 5 5;
+    classDef subPink fill:#0d1117,stroke:#ec4899,stroke-width:1px,color:#fff,stroke-dasharray: 5 5;
+    classDef subGreen fill:#0d1117,stroke:#10b981,stroke-width:1px,color:#fff,stroke-dasharray: 5 5;
+    classDef subOrange fill:#0d1117,stroke:#f59e0b,stroke-width:1px,color:#fff,stroke-dasharray: 5 5;
+    classDef subCyan fill:#0d1117,stroke:#06b6d4,stroke-width:1px,color:#fff,stroke-dasharray: 5 5;
+
+    %% Apply Styles
+    class Root rootStyle;
+    
+    class Class blueNode;
+    class CL1,CL2,CL3 subBlue;
+
+    class Ens purpleNode;
+    class EN1,EN2,EN3 subPurple;
+
+    class Eval pinkNode;
+    class EV1,EV2,EV3 subPink;
+
+    class Feat greenNode;
+    class FE1,FE2,FE3 subGreen;
+
+    class Dom orangeNode;
+    class DO1,DO2,DO3 subOrange;
+
+    class Dep cyanNode;
+    class DP1,DP2,DP3 subCyan;
+
+    %% ==========================================
+    %% LINK STYLING (The Coloring Logic)
+    %% ==========================================
+
+    %% 1. Classification (Blue) - Indices 0,1,2 + Center Link (18)
+    linkStyle 0,1,2,18 stroke:#3b82f6,stroke-width:2px;
+
+    %% 2. Ensemble (Purple) - Indices 3,4,5 + Center Link (19)
+    linkStyle 3,4,5,19 stroke:#a855f7,stroke-width:2px;
+
+    %% 3. Evaluation (Pink) - Indices 6,7,8 + Center Link (20)
+    linkStyle 6,7,8,20 stroke:#ec4899,stroke-width:2px;
+
+    %% 4. Feature Eng (Green) - Indices 9,10,11 + Center Link (21)
+    linkStyle 9,10,11,21 stroke:#10b981,stroke-width:2px;
+
+    %% 5. Domain (Orange) - Indices 12,13,14 + Center Link (22)
+    linkStyle 12,13,14,22 stroke:#f59e0b,stroke-width:2px;
+
+    %% 6. Deployment (Cyan) - Indices 15,16,17 + Center Link (23)
+    linkStyle 15,16,17,23 stroke:#06b6d4,stroke-width:2px;
+
 ```
 
 <table>
