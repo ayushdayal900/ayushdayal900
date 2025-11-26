@@ -39,7 +39,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayushdayal900&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/ayushdayal900?label=Followers&style=for-the-badge&color=10B981&labelColor=0D1117&logo=github" alt="Followers" />
-
+  <img src="https://img.shields.io/github/stars/ayushdayal900?label=Total%20Stars&style=for-the-badge&color=F59E0B&labelColor=0D1117&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/Focus-Open%20Source-8B5CF6?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Focus"/>
 </p>
 
 <br/>
@@ -50,19 +51,14 @@
 
 ## 🌟 About Me
 
-
-<p align="center">
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 
-<img align="right" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Thinking Research"/>
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 
-<img align="right" width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Data Research"/>
 
-</p>
-
+<img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 
 
