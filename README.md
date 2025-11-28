@@ -58,11 +58,9 @@
 <img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 
-<br/>
-
 <img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-<br/>
+
 
 <img align="right" alt="Coding" width="420" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
