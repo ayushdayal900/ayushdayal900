@@ -138,23 +138,20 @@ console.log(`${ayushDayal.role} ready to collaborate! 🚀`);
 
 | 🌐 **Web Development** | 🖥️ **Systems Programming** | ☁️ **Cloud & DevOps** | 🚀 **Current Focus** |
 |:---:|:---:|:---:|:---:|
-| Full-stack applications with modern frameworks | Linux system administration & automation | AWS, Azure, Docker, Kubernetes | Vue.js ecosystem mastery |
-| RESTful API design & microservices | Shell scripting & task automation | Infrastructure as Code (IaC) | Node.js backend development |
-| Database optimization & architecture | Containerization strategies | CI/CD pipeline automation | Java open source contributions |
-| Responsive UI/UX design | Performance tuning & monitoring | Cloud-native deployment | ML model integration & deployment |
+| Full-stack applications with modern frameworks(MERN/MEVN) | Linux system administration, automation & security workflows | AWS, Azure, Docker, Kubernetes | Vue.js ecosystem mastery |
+| RESTful API architecture & microservices design | Shell scripting for deployment, tooling & task automation | Infrastructure as Code (IaC) | Node.js backend development |
+| Database engineering, optimization & schema management | Containerization strategies (Docker, Kubernetes fundamentals) | CI/CD pipeline automation | Java open source contributions |
+| Responsive UI/UX development with HTML, CSS, Bootstrap & modern tooling | System performance tuning, monitoring & optimization | Cloud-native deployment | ML model integration & deployment |
 
 </div>
 
-### 📚 Recent Projects & Research
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **IPO Automation Platform** | ML-powered IPO prediction & automated application system | Python, Flask, ML, AWS | 🟢 Active |
-| **Calorie Calculator** | Industry project for health tracking & nutrition analysis | React, Node.js, MongoDB | 🟢 Complete |
-| **Phishing Detection** | Browser extension for real-time phishing detection | JavaScript, ML Models | 🟡 In Progress |
-| **Research Papers** | IPO prediction, SPC & DOE for quality improvement | Python, Statistics, IEEE | 🟢 Published |
+| Project                    | Description                                                                                  | Tech Stack                                                        | Status                |
+| -------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------- |
+| **FalcoVita**              | Quiz management platform supporting quiz creation, attempts, scoring & analytics             | Vue.js, Flask, SQLite, Celery, Redis, OpenAI, Pinecone, Bootstrap | 🟢 Completed          |
+| **Quiz-Master**            | Web-based quiz application with dynamic rendering & result tracking                          | Flask, HTML, CSS, JavaScript, Bootstrap, Jinja                    | 🟢 Completed          |
+| **Eventizer**              | Full-stack event management system with scheduling, real-time virtual events & notifications | React.js, Node.js, Express, MongoDB, Zoom SDK, Discord Webhook    | 🟢 Completed          |
+| **IPO Predictor**          | ML-based prediction system for IPO performance with structured analysis pipeline             | Python, ML Models, Boosting Algorithms, Imbalanced Data Handling  | 🟢 Published / Active |
+| **Causal Bias Mitigation** | Applied causal inference to analyze & mitigate AI/ML prediction bias                         | Python, PyTorch, TensorFlow, HuggingFace, OpenAI                  | 🟡 Research / Ongoing |
 
 </div>
 
