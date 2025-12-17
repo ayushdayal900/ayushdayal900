@@ -445,7 +445,7 @@ graph LR
     Ens[Ensemble<br/>Methods]
 
     %% 3. MODEL EVALUATION (Pink)
-    EV1(Metrics(F1/Recall) & Heat-Maps) --> Eval
+    EV1(Metrics & Heat-Maps) --> Eval
     EV2(Confusion Matrix) --> Eval
     EV3(Cross-Validation) --> Eval
     Eval[Model<br/>Evaluation]
