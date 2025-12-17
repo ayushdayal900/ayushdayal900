@@ -242,21 +242,6 @@ console.log(`${ayushDayal.role} ready to collaborate! 🚀`);
 
 <br/>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-### 📈 Overview & Language Distribution
-
-<a href="https://github.com/ayushdayal900">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdayal900&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&border_radius=10&card_width=320" alt="Top Languages"/>
-</a>
-
-### 🔥 Contribution Streak
-
-<a href="https://github.com/ayushdayal900">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ayushdayal900&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6&border_radius=10" alt="GitHub Streak Stats" />
-</a>
 
 ### 📅 Contribution Activity Graph
 
