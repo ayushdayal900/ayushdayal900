@@ -35,14 +35,6 @@
   </a>
 </p>
 
-<!-- Enhanced Profile Statistics with Custom Colors -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushdayal900&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ayushdayal900?label=Followers&style=for-the-badge&color=10B981&labelColor=0D1117&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ayushdayal900?label=Total%20Stars&style=for-the-badge&color=F59E0B&labelColor=0D1117&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/badge/Focus-Open%20Source-8B5CF6?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Focus"/>
-</p>
-
 <br/>
 
 <hr style="border: none; border-top: 2px solid white; width: 50%; margin: 20px auto;">
@@ -138,20 +130,20 @@ console.log(`${ayushDayal.role} ready to collaborate! 🚀`);
 
 | 🌐 **Web Development** | 🖥️ **Systems Programming** | ☁️ **Cloud & DevOps** | 🚀 **Current Focus** |
 |:---:|:---:|:---:|:---:|
-| Full-stack applications with modern frameworks(MERN/MEVN) | Linux system administration, automation & security workflows | AWS, Azure, Docker, Kubernetes | Vue.js ecosystem mastery |
-| RESTful API architecture & microservices design | Shell scripting for deployment, tooling & task automation | Infrastructure as Code (IaC) | Node.js backend development |
-| Database engineering, optimization & schema management | Containerization strategies (Docker, Kubernetes fundamentals) | CI/CD pipeline automation | Java open source contributions |
-| Responsive UI/UX development with HTML, CSS, Bootstrap & modern tooling | System performance tuning, monitoring & optimization | Cloud-native deployment | ML model integration & deployment |
+| Full-stack applications with modern frameworks(MERN/MEVN) | Linux system administration, automation & security workflows | Complete AWS, Docker, Basics of Azure, GCP and Kubernetes | Machine Learning mastery |
+| RESTful API architecture & microservices design | Shell scripting for deployment, tooling & task automation | Infrastructure as Code (IaC) | Backend deployment |
+| Database engineering, optimization & schema management | Process, memory & file system management (OS-level programming) | CI/CD pipeline by GitHub Actions, Jenkins | Open Source Contributions |
+| Responsive UI/UX development with Figma and Power BI | System performance tuning, monitoring & optimization | Cloud-native deployment Docker, Kubernetes and Terraform | ML model integration & deployment |
 
 </div>
 
 | Project                    | Description                                                                                  | Tech Stack                                                        | Status                |
 | -------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------- |
-| **FalcoVita**              | Quiz management platform supporting quiz creation, attempts, scoring & analytics             | Vue.js, Flask, SQLite, Celery, Redis, OpenAI, Pinecone, Bootstrap | 🟢 Completed          |
-| **Quiz-Master**            | Web-based quiz application with dynamic rendering & result tracking                          | Flask, HTML, CSS, JavaScript, Bootstrap, Jinja                    | 🟢 Completed          |
-| **Eventizer**              | Full-stack event management system with scheduling, real-time virtual events & notifications | React.js, Node.js, Express, MongoDB, Zoom SDK, Discord Webhook    | 🟢 Completed          |
-| **IPO Predictor**          | ML-based prediction system for IPO performance with structured analysis pipeline             | Python, ML Models, Boosting Algorithms, Imbalanced Data Handling  | 🟢 Published / Active |
-| **Causal Bias Mitigation** | Applied causal inference to analyze & mitigate AI/ML prediction bias                         | Python, PyTorch, TensorFlow, HuggingFace, OpenAI                  | 🟡 Research / Ongoing |
+| **FalcoVita**              | Application designed for streamline healthcare operations by providing a centralized platform for managing patients, doctors, appointments, and medical records. | Vue.js, Flask, SQLite, Celery, Redis, MailHog, OpenAI, Pinecone, Bootstrap | 🟢 Completed          |
+| **Quiz-Master**            | A web-based quiz management system developed to facilitate quiz creation and track student learning progress.                          | Flask, HTML, CSS, JavaScript, Bootstrap, Jinja, Matplotlib                    | 🟢 Completed          |
+| **Eventizer**              | Full-stack event management system with scheduling, real-time virtual events & notifications | React.js, Node.js, Express, MongoDB, Jitsi Meet, Discord Webhook    | 🟢 Completed          |
+| **IPO Predictor**          | ML-based prediction system for IPO performance with structured analysis pipeline             | Python, ML Models, Boosting Algorithms, Imbalanced Data Handling  | 🟢 Completed |
+| **Causal Bias Mitigation** | Applied causal inference to analyze & mitigate AI/ML prediction bias                         | Python, PyTorch, TensorFlow, HuggingFace, OpenAI                  | 🟢 Completed |
 
 </div>
 
@@ -257,7 +249,6 @@ console.log(`${ayushDayal.role} ready to collaborate! 🚀`);
 ### 📈 Overview & Language Distribution
 
 <a href="https://github.com/ayushdayal900">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushdayal900&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=3B82F6&icon_color=10B981&text_color=E5E7EB&border_radius=10" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushdayal900&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB&border_radius=10&card_width=320" alt="Top Languages"/>
 </a>
 
@@ -276,7 +267,7 @@ console.log(`${ayushDayal.role} ready to collaborate! 🚀`);
 ### 🏆 GitHub Trophies & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushdayal900&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayushdayal900&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ### 📌 Detailed Profile Summary
