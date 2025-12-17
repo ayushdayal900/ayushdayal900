@@ -132,7 +132,8 @@ console.log(`${ayushDayal.role} ready to collaborate! 🚀`);
 
 </div>
 
-<br/>
+<br clear="right"/>
+
 ### 🎯 My Best Projects
 
 
