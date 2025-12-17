@@ -132,6 +132,9 @@ console.log(`${ayushDayal.role} ready to collaborate! 🚀`);
 
 </div>
 
+### 🎯 My Best Projects
+
+
 | Project                    | Description                                                                                  | Tech Stack                                                        | Status                |
 | -------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------- |
 | **FalcoVita**              | Application designed for streamline healthcare operations by providing a centralized platform for managing patients, doctors, appointments, and medical records. | Vue.js, Flask, SQLite, Celery, Redis, MailHog, OpenAI, Pinecone, Bootstrap | 🟢 Completed          |
