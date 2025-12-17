@@ -264,14 +264,7 @@ console.log(`${ayushDayal.role} ready to collaborate! 🚀`);
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdayal900&bg_color=0D1117&color=3B82F6&line=10B981&point=E5E7EB&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph"/>
 </a>
 
-### 🏆 GitHub Trophies & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushdayal900&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
 ### 📌 Detailed Profile Summary
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushdayal900&theme=tokyonight" alt="Profile Summary" width="100%"/>
 </p>
@@ -369,15 +362,15 @@ graph LR
 
     %% --- RIGHT SIDE (Cloud - GREEN) ---
     %% Logic: Main Node --> Sub-nodes (Forces them Right)
-    Cloud[Cloud Native<br/>Computing] --> C1(Kubernetes)
+    Cloud[Cloud Native<br/>Computing] --> C1(Docker and Kubernetes)
     Cloud --> C2(Serverless)
     Cloud --> C3(Multi-Cloud)
 
     %% --- RIGHT SIDE (DevOps - ORANGE) ---
     %% Logic: Main Node --> Sub-nodes (Forces them Right)
     Dev[DevOps<br/>Culture] --> D1(CI/CD)
-    Dev --> D2(Observability)
-    Dev --> D3(Security)
+    Dev --> D2(Automation)
+    Dev --> D3(AWS)
 
     %% --- CONNECTING TO CENTER ---
     DS === Root
@@ -427,7 +420,7 @@ graph LR
 ```
 
 
-## 🤖 Software Engineering Expertise 
+## 🤖 Machine Learning Expertise 
 
 ```mermaid
 
@@ -446,13 +439,13 @@ graph LR
     Class[Classification]
 
     %% 2. ENSEMBLE METHODS (Purple)
-    EN1(Boosting: XGBoost/Ada) --> Ens
-    EN2(Bagging: Random Forest) --> Ens
-    EN3(Stacking) --> Ens
+    EN1(Boosting Algorithms) --> Ens
+    EN2(Bagging Algorithms) --> Ens
+    EN3(Loss Functions & Optimizations) --> Ens
     Ens[Ensemble<br/>Methods]
 
     %% 3. MODEL EVALUATION (Pink)
-    EV1(Metrics: F1/Recall) --> Eval
+    EV1(Metrics(F1/Recall) & Heat-Maps) --> Eval
     EV2(Confusion Matrix) --> Eval
     EV3(Cross-Validation) --> Eval
     Eval[Model<br/>Evaluation]
@@ -462,14 +455,14 @@ graph LR
     %% ==========================================
 
     %% 4. FEATURE ENGINEERING (Green)
-    Feat[Feature<br/>Engineering] --> FE1(Financial Ratios)
-    Feat --> FE2(Domain Metrics: GMP)
-    Feat --> FE3(Feature Selection)
+    Feat[Feature<br/>Engineering] --> FE1(Domain-driven feature design)
+    Feat --> FE2(Automated feature engineering)
+    Feat --> FE3(Outlier treatment)
 
     %% 5. DOMAIN EXPERTISE (Orange)
-    Dom[Domain<br/>Expertise] --> DO1(IPO Analysis)
-    Dom --> DO2(Market Fundamentals)
-    Dom --> DO3(Financial Data Proc)
+    Dom[Domain<br/>Expertise] --> DO1(Feature engineering decisions)
+    Dom --> DO2(Choosing evaluation metrics)
+    Dom --> DO3(Interpreting model outputs correctly)
 
     %% 6. DEPLOYMENT (Cyan)
     Dep[Deployment<br/>& Implementation] --> DP1(Model Serialization)
