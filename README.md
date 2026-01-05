@@ -139,11 +139,12 @@ console.log(`${ayushDayal.role} ready to collaborate! 🚀`);
 
 | Project                    | Description                                                                                  | Tech Stack                                                        | Status                |
 | -------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------- |
+| **Mahalaxmi Tailors** | Created a full fledge e-comerse website for my mothers tailoring business.| Full Stack Development (MERN), JWT, Razorpay, Cloudinary, Jitsi Meet, i18next, Helmet, DevOps Practices, AWS Services (IAM, S3, Route 53, EC2, CloudFront, Amplify, CloudWatch, SES, CloudFormation)                | 🟢 Completed |
 | **FalcoVita**              | Application designed for streamline healthcare operations by providing a centralized platform for managing patients, doctors, appointments, and medical records. | Vue.js, Flask, SQLite, Celery, Redis, MailHog, OpenAI, Pinecone, Bootstrap | 🟢 Completed          |
 | **Quiz-Master**            | A web-based quiz management system developed to facilitate quiz creation and track student learning progress.                          | Flask, HTML, CSS, JavaScript, Bootstrap, Jinja, Matplotlib                    | 🟢 Completed          |
 | **Eventizer**              | Full-stack event management system with scheduling, real-time virtual events & notifications | React.js, Node.js, Express, MongoDB, Jitsi Meet, Discord Webhook    | 🟢 Completed          |
 | **IPO Predictor**          | ML-based prediction system for IPO performance with structured analysis pipeline             | Python, ML Models, Boosting Algorithms, Imbalanced Data Handling  | 🟢 Completed |
-| **Causal Bias Mitigation** | Applied causal inference to analyze & mitigate AI/ML prediction bias                         | Python, PyTorch, TensorFlow, HuggingFace, OpenAI                  | 🟢 Completed |
+
 
 </div>
 
